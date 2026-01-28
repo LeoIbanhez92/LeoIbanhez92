@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
+
 # Olá! Eu sou o Leonardo Ibanhez 👋 
 
 <p align="center">
@@ -65,6 +67,4 @@ Sou graduado em **Análise e Desenvolvimento de Sistemas** e atualmente estou me
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3178C6&height=120&section=footer" />
-</p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
