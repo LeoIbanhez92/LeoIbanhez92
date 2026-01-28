@@ -1,26 +1,36 @@
+# Olá! Eu sou o Leonardo Ibanhez 👋 
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3178C6&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full-Stack;Focado+em+JavaScript;Especialista+em+Soluções+Web" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3178C6&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full-Stack;Graduado+em+ADS;Especialista+em+Soluções+Web" alt="Typing SVG" />
+</p>
+
+---
+
+## 📈 Atividade no GitHub
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=LeoIbanhez92&bg_color=0D1117&color=3178C6&line=3178C6&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
 
 ## 🚀 Sobre Mim
-Desenvolvedor apaixonado por criar soluções web eficientes e enfrentar desafios de lógica. Atualmente focado no ecossistema **JavaScript** e no desenvolvimento de APIs robustas.
+Sou graduado em **Análise e Desenvolvimento de Sistemas** e atualmente estou me especializando através de um **Bootcamp Full-Stack**. Unindo a base acadêmica com o aprendizado prático intensivo, foco em criar soluções escaláveis e eficientes.
 
-- 🇧🇷 Localizado no Brasil.
-- ⚡ Curiosidade: Busco sempre unir boas práticas de código com performance.
-- 🌱 Atualmente evoluindo em: **Node.js, Spring Boot e Next.js**.
+- 🎓 **Formação:** Tecnólogo em Análise e Desenvolvimento de Sistemas.
+- ⚡ **Especialização:** Bootcamp Full-Stack (Focado em tecnologias modernas).
+- 🌱 **Stack de Evolução:** Node.js, Spring Boot, Java, C# e Angular.
+- 🇧🇷 Baseado no Brasil.
 
 ---
 
 ## 🌐 Conecte-se Comigo
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/leonardo-ibanhez-344379296/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/leonardo-ibanhez-344379296/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/LeoIbanhez92">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/LeoIbanhez92" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -30,7 +40,7 @@ Desenvolvedor apaixonado por criar soluções web eficientes e enfrentar desafio
 
 ### 💻 Linguagens & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,cs,js,ts,angular,nextjs,nodejs,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,spring,cs,angular,nextjs,nodejs,mysql" />
 </p>
 
 ### ⚙️ Ferramentas
@@ -42,27 +52,12 @@ Desenvolvedor apaixonado por criar soluções web eficientes e enfrentar desafio
 
 ## 📊 Estatísticas
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoIbanhez92&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoIbanhez92&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoIbanhez92&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoIbanhez92&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas" />
 </p>
 
 ---
 
-## 🐍 GitHub Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LeoIbanhez92/LeoIbanhez92/output/github-contribution-grid-snake.svg" alt="Snake Game" />
-</p>
-
----
-
-## 🏆 Projetos em Destaque
-| Projeto | Descrição | Link |
-| :--- | :--- | :--- |
-| **TrabalhoGeneration** | Projeto acadêmico focado em práticas Full-Stack. | [Ver Repo](https://github.com/LeoIbanhez92) |
-| **JavaScript_13** | Biblioteca de exercícios de lógica avançada. | [Ver Repo](https://github.com/LeoIbanhez92) |
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3178C6&height=120&section=footer" />
 </p>
