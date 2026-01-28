@@ -36,17 +36,24 @@ Sou graduado em **Análise e Desenvolvimento de Sistemas** e atualmente estou me
 
 ---
 
-## 🛠️ Tech Stack Animado
+## 🛠️ Tech Stack
 
-### 💻 Linguagens & Frameworks
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,spring,cs,angular,nextjs,nodejs,mysql" />
-</p>
-
-### ⚙️ Ferramentas
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+<table border="0">
+  <tr>
+    <td width="33%" valign="top">
+      <h3>💻 Linguagens</h3>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,cs,mysql" />
+    </td>
+    <td width="33%" valign="top">
+      <h3>🏗️ Frameworks</h3>
+      <img src="https://skillicons.dev/icons?i=spring,angular,nextjs,nodejs" />
+    </td>
+    <td width="33%" valign="top">
+      <h3>⚙️ Ferramentas</h3>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+    </td>
+  </tr>
+</table>
 
 ---
 
