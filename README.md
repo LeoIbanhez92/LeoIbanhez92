@@ -61,9 +61,10 @@ Sou graduado em **Análise e Desenvolvimento de Sistemas** e atualmente estou me
 
 ## 📊 Estatísticas
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoIbanhez92&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoIbanhez92&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeoIbanhez92&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeoIbanhez92&theme=tokyonight" />
 </p>
+
 
 ---
 
